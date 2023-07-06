@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minna-master-n4/static/css/main.1b72a67a.css",
-    "main.js": "/minna-master-n4/static/js/main.35694aef.js",
+    "main.css": "/minna-master-n4/static/css/main.412a904e.css",
+    "main.js": "/minna-master-n4/static/js/main.ed477249.js",
     "static/js/787.6a5b8d7b.chunk.js": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js",
     "static/media/4N27RSA1.mp3": "/minna-master-n4/static/media/4N27RSA1.9d73d0d088c34a648a28.mp3",
     "static/media/4N26RSA1.mp3": "/minna-master-n4/static/media/4N26RSA1.857249ad875703e3b905.mp3",
@@ -363,12 +363,12 @@
     "static/media/wrong.mp3": "/minna-master-n4/static/media/wrong.0c9c3b2e733784212ce4.mp3",
     "static/media/jump.riv": "/minna-master-n4/static/media/jump.fe3ef05e5b4a2e9cdbba.riv",
     "index.html": "/minna-master-n4/index.html",
-    "main.1b72a67a.css.map": "/minna-master-n4/static/css/main.1b72a67a.css.map",
-    "main.35694aef.js.map": "/minna-master-n4/static/js/main.35694aef.js.map",
+    "main.412a904e.css.map": "/minna-master-n4/static/css/main.412a904e.css.map",
+    "main.ed477249.js.map": "/minna-master-n4/static/js/main.ed477249.js.map",
     "787.6a5b8d7b.chunk.js.map": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b72a67a.css",
-    "static/js/main.35694aef.js"
+    "static/css/main.412a904e.css",
+    "static/js/main.ed477249.js"
   ]
 }
