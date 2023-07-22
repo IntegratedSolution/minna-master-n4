@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minna-master-n4/static/css/main.90237347.css",
-    "main.js": "/minna-master-n4/static/js/main.2e9201f5.js",
+    "main.css": "/minna-master-n4/static/css/main.29b03b94.css",
+    "main.js": "/minna-master-n4/static/js/main.5180c6e4.js",
     "static/js/787.6a5b8d7b.chunk.js": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js",
     "static/media/4N27RSA1.mp3": "/minna-master-n4/static/media/4N27RSA1.9d73d0d088c34a648a28.mp3",
     "static/media/4N26RSA1.mp3": "/minna-master-n4/static/media/4N26RSA1.857249ad875703e3b905.mp3",
@@ -386,8 +386,8 @@
     "static/media/show.svg": "/minna-master-n4/static/media/show.9baaabf8392869514d37e48f2d3b706f.svg",
     "static/media/wrong.mp3": "/minna-master-n4/static/media/wrong.0c9c3b2e733784212ce4.mp3",
     "static/media/close.svg": "/minna-master-n4/static/media/close.f53cb07689241d6e1a32e2ab9a83d966.svg",
-    "static/media/vocabulary.svg": "/minna-master-n4/static/media/vocabulary.db2e1e35c9c797b37baa1d73c7a31a55.svg",
     "index.html": "/minna-master-n4/index.html",
+    "static/media/vocabulary.svg": "/minna-master-n4/static/media/vocabulary.db2e1e35c9c797b37baa1d73c7a31a55.svg",
     "static/media/messenger.svg": "/minna-master-n4/static/media/messenger.0f0ae4ca8cf7a376207cc73dc0559d1f.svg",
     "static/media/eye.svg": "/minna-master-n4/static/media/eye.f5e31ffb6b624fc40f16514ca739a9f6.svg",
     "static/media/edit.svg": "/minna-master-n4/static/media/edit.24c31beca3a6f9fd9608410b684073ad.svg",
@@ -403,12 +403,12 @@
     "static/media/none-star.svg": "/minna-master-n4/static/media/none-star.0c98fa00a20f9a97a0a8941a6760ff9d.svg",
     "static/media/arrow.svg": "/minna-master-n4/static/media/arrow.0999e4e27ba93da0342aac11bf4d1abd.svg",
     "static/media/bullet.svg": "/minna-master-n4/static/media/bullet.a0aaaefb868b9c01a5d30c11bd962c53.svg",
-    "main.90237347.css.map": "/minna-master-n4/static/css/main.90237347.css.map",
-    "main.2e9201f5.js.map": "/minna-master-n4/static/js/main.2e9201f5.js.map",
+    "main.29b03b94.css.map": "/minna-master-n4/static/css/main.29b03b94.css.map",
+    "main.5180c6e4.js.map": "/minna-master-n4/static/js/main.5180c6e4.js.map",
     "787.6a5b8d7b.chunk.js.map": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90237347.css",
-    "static/js/main.2e9201f5.js"
+    "static/css/main.29b03b94.css",
+    "static/js/main.5180c6e4.js"
   ]
 }
