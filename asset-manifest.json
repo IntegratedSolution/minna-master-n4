@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minna-master-n4/static/css/main.967c5a48.css",
-    "main.js": "/minna-master-n4/static/js/main.6c0cb9b5.js",
+    "main.css": "/minna-master-n4/static/css/main.c99713ba.css",
+    "main.js": "/minna-master-n4/static/js/main.cce35aa5.js",
     "static/js/787.6a5b8d7b.chunk.js": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js",
     "static/media/4N35RSA1.mp3": "/minna-master-n4/static/media/4N35RSA1.53c9348acfbea9e843d6.mp3",
     "static/media/4N33RSA1.mp3": "/minna-master-n4/static/media/4N33RSA1.f74a5f314d8954ec6e30.mp3",
@@ -1390,12 +1390,12 @@
     "static/media/none-star.svg": "/minna-master-n4/static/media/none-star.0c98fa00a20f9a97a0a8941a6760ff9d.svg",
     "static/media/arrow.svg": "/minna-master-n4/static/media/arrow.0999e4e27ba93da0342aac11bf4d1abd.svg",
     "static/media/bullet.svg": "/minna-master-n4/static/media/bullet.788ccc6fa3c057e9907c142e51b2ba9a.svg",
-    "main.967c5a48.css.map": "/minna-master-n4/static/css/main.967c5a48.css.map",
-    "main.6c0cb9b5.js.map": "/minna-master-n4/static/js/main.6c0cb9b5.js.map",
+    "main.c99713ba.css.map": "/minna-master-n4/static/css/main.c99713ba.css.map",
+    "main.cce35aa5.js.map": "/minna-master-n4/static/js/main.cce35aa5.js.map",
     "787.6a5b8d7b.chunk.js.map": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.967c5a48.css",
-    "static/js/main.6c0cb9b5.js"
+    "static/css/main.c99713ba.css",
+    "static/js/main.cce35aa5.js"
   ]
 }
