@@ -1,12 +1,7 @@
 {
   "files": {
-<<<<<<< HEAD
     "main.css": "/minna-master-n4/static/css/main.7567503d.css",
-    "main.js": "/minna-master-n4/static/js/main.4e94a5b7.js",
-=======
-    "main.css": "/minna-master-n4/static/css/main.bdc54950.css",
-    "main.js": "/minna-master-n4/static/js/main.f4838e0f.js",
->>>>>>> aed4855b54b16100132d6c8c699449685c9dd764
+    "main.js": "/minna-master-n4/static/js/main.25b4ca8c.js",
     "static/js/787.6a5b8d7b.chunk.js": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js",
     "static/media/4N35RSA1.mp3": "/minna-master-n4/static/media/4N35RSA1.53c9348acfbea9e843d6.mp3",
     "static/media/4N33RSA1.mp3": "/minna-master-n4/static/media/4N33RSA1.f74a5f314d8954ec6e30.mp3",
@@ -1535,34 +1530,6 @@
     "static/media/edit.svg": "/minna-master-n4/static/media/edit.23a0d74991670c2a0971cbb9278955f6.svg",
     "static/media/agree.svg": "/minna-master-n4/static/media/agree.c4835dcb45cd8ff894f7df9e3ccf2ea8.svg",
     "static/media/jump.riv": "/minna-master-n4/static/media/jump.fe3ef05e5b4a2e9cdbba.riv",
-<<<<<<< HEAD
-    "static/media/speaker.svg": "/minna-master-n4/static/media/speaker.81d41d8404005e8d241b9430d6bf8bde.svg",
-    "static/media/cloud.svg": "/minna-master-n4/static/media/cloud.29a0cde352a454ba28032130374de49f.svg",
-    "static/media/phone.svg": "/minna-master-n4/static/media/phone.d699f64d746ccb3b16c1bcd9afdc165d.svg",
-    "static/media/privacy 1.svg": "/minna-master-n4/static/media/privacy 1.a6f9d77a742e7d478e028723e0be6836.svg",
-    "static/media/Moon.svg": "/minna-master-n4/static/media/Moon.eaa9bc954572acb4027d154786ae91d7.svg",
-    "static/media/facebook 1.svg": "/minna-master-n4/static/media/facebook 1.32de6c04b81c7826c44dae6dba910008.svg",
-    "static/media/home-icon 1.svg": "/minna-master-n4/static/media/home-icon 1.5a4600ea915455fdff237e2f62eda957.svg",
-    "static/media/play.svg": "/minna-master-n4/static/media/play.5f6dba3dc74a2d6212e59a5a1c6bd4a4.svg",
-    "static/media/facebook.svg": "/minna-master-n4/static/media/facebook.1fa6d15903d452cc72d12c9b3955f225.svg",
-    "static/media/premium.svg": "/minna-master-n4/static/media/premium.f5ab81b6c22913dec8e4235a1244ef9d.svg",
-    "static/media/prev.svg": "/minna-master-n4/static/media/prev.2dd7e9f727c26962a3fd485b0fa1f880.svg",
-    "static/media/next.svg": "/minna-master-n4/static/media/next.f1a28b8790be4840373aaa0b37330ccb.svg",
-    "static/media/pencil.svg": "/minna-master-n4/static/media/pencil.6cb6b844416d910d2eafc342090e35f9.svg",
-    "static/media/gmail 1.svg": "/minna-master-n4/static/media/gmail 1.f21221d2a6b72b9b81afaac2a2a6ba92.svg",
-    "static/media/half-star.svg": "/minna-master-n4/static/media/half-star.959ccb5b2a1637350be1f2b3d6db2623.svg",
-    "static/media/none-star.svg": "/minna-master-n4/static/media/none-star.0c98fa00a20f9a97a0a8941a6760ff9d.svg",
-    "static/media/arrow.svg": "/minna-master-n4/static/media/arrow.0999e4e27ba93da0342aac11bf4d1abd.svg",
-    "static/media/cancel.svg": "/minna-master-n4/static/media/cancel.4968a01bc0ba001c874433c87fb6f4fd.svg",
-    "static/media/bullet.svg": "/minna-master-n4/static/media/bullet.788ccc6fa3c057e9907c142e51b2ba9a.svg",
-    "main.7567503d.css.map": "/minna-master-n4/static/css/main.7567503d.css.map",
-    "main.4e94a5b7.js.map": "/minna-master-n4/static/js/main.4e94a5b7.js.map",
-    "787.6a5b8d7b.chunk.js.map": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.7567503d.css",
-    "static/js/main.4e94a5b7.js"
-=======
     "static/media/speaker.svg": "/minna-master-n4/static/media/speaker.6f1965095ec0a85397b24ab7963c6568.svg",
     "static/media/cloud.svg": "/minna-master-n4/static/media/cloud.078950581f5a86a56339abf2d470900d.svg",
     "static/media/phone.svg": "/minna-master-n4/static/media/phone.00b23c56434dbb3545828592d14d3a9e.svg",
@@ -1582,13 +1549,12 @@
     "static/media/arrow.svg": "/minna-master-n4/static/media/arrow.60c69b3c67b8b0ed834b7f9c661a9250.svg",
     "static/media/cancel.svg": "/minna-master-n4/static/media/cancel.914ffd75a597792f05060d6ff62c16ac.svg",
     "static/media/bullet.svg": "/minna-master-n4/static/media/bullet.dcfd95e7b10d78778fa722adce589d72.svg",
-    "main.bdc54950.css.map": "/minna-master-n4/static/css/main.bdc54950.css.map",
-    "main.f4838e0f.js.map": "/minna-master-n4/static/js/main.f4838e0f.js.map",
+    "main.7567503d.css.map": "/minna-master-n4/static/css/main.7567503d.css.map",
+    "main.25b4ca8c.js.map": "/minna-master-n4/static/js/main.25b4ca8c.js.map",
     "787.6a5b8d7b.chunk.js.map": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdc54950.css",
-    "static/js/main.f4838e0f.js"
->>>>>>> aed4855b54b16100132d6c8c699449685c9dd764
+    "static/css/main.7567503d.css",
+    "static/js/main.25b4ca8c.js"
   ]
 }
