@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minna-master-n4/static/css/main.7567503d.css",
-    "main.js": "/minna-master-n4/static/js/main.25b4ca8c.js",
+    "main.css": "/minna-master-n4/static/css/main.8ed23dc3.css",
+    "main.js": "/minna-master-n4/static/js/main.592bb7dc.js",
     "static/js/787.6a5b8d7b.chunk.js": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js",
     "static/media/4N35RSA1.mp3": "/minna-master-n4/static/media/4N35RSA1.53c9348acfbea9e843d6.mp3",
     "static/media/4N33RSA1.mp3": "/minna-master-n4/static/media/4N33RSA1.f74a5f314d8954ec6e30.mp3",
@@ -1530,7 +1530,6 @@
     "static/media/edit.svg": "/minna-master-n4/static/media/edit.24c31beca3a6f9fd9608410b684073ad.svg",
     "static/media/agree.svg": "/minna-master-n4/static/media/agree.b20e6c5ce34f9ae4556538d31ff89bff.svg",
     "static/media/jump.riv": "/minna-master-n4/static/media/jump.fe3ef05e5b4a2e9cdbba.riv",
-<<<<<<< HEAD
     "static/media/speaker.svg": "/minna-master-n4/static/media/speaker.81d41d8404005e8d241b9430d6bf8bde.svg",
     "static/media/cloud.svg": "/minna-master-n4/static/media/cloud.29a0cde352a454ba28032130374de49f.svg",
     "static/media/phone.svg": "/minna-master-n4/static/media/phone.d699f64d746ccb3b16c1bcd9afdc165d.svg",
@@ -1557,33 +1556,5 @@
   "entrypoints": [
     "static/css/main.8ed23dc3.css",
     "static/js/main.592bb7dc.js"
-=======
-    "static/media/speaker.svg": "/minna-master-n4/static/media/speaker.6f1965095ec0a85397b24ab7963c6568.svg",
-    "static/media/cloud.svg": "/minna-master-n4/static/media/cloud.078950581f5a86a56339abf2d470900d.svg",
-    "static/media/phone.svg": "/minna-master-n4/static/media/phone.00b23c56434dbb3545828592d14d3a9e.svg",
-    "static/media/privacy 1.svg": "/minna-master-n4/static/media/privacy 1.43d0dfcbf87ac59dc7bc294008ba8126.svg",
-    "static/media/Moon.svg": "/minna-master-n4/static/media/Moon.8eaba3d57918c767881cc0b539713b34.svg",
-    "static/media/facebook 1.svg": "/minna-master-n4/static/media/facebook 1.e81bc09e302956ac396cd20e2fb4484b.svg",
-    "static/media/home-icon 1.svg": "/minna-master-n4/static/media/home-icon 1.d884b63362b80a20eed9b48f22da81e7.svg",
-    "static/media/play.svg": "/minna-master-n4/static/media/play.a5f2c966735a2f9f399e0a2736b04ebd.svg",
-    "static/media/facebook.svg": "/minna-master-n4/static/media/facebook.883bee28c01fb2e3dee2c491a87b95ec.svg",
-    "static/media/premium.svg": "/minna-master-n4/static/media/premium.5cd5e7c98197c841d0e4457a5ee05340.svg",
-    "static/media/prev.svg": "/minna-master-n4/static/media/prev.55c1b2bc6afbea0ae467bc633765f551.svg",
-    "static/media/next.svg": "/minna-master-n4/static/media/next.c6d46fdc95ce69ce65aac9f7f5b7fa20.svg",
-    "static/media/pencil.svg": "/minna-master-n4/static/media/pencil.3d32711cd632b28a9bf794ef8686a37b.svg",
-    "static/media/gmail 1.svg": "/minna-master-n4/static/media/gmail 1.009fce8b156f67281f8bc3aacad9550d.svg",
-    "static/media/half-star.svg": "/minna-master-n4/static/media/half-star.6185030cb16c91cf0f1cf75d132c0a28.svg",
-    "static/media/none-star.svg": "/minna-master-n4/static/media/none-star.866e347fa4cc15b85805c49e98dd1c4d.svg",
-    "static/media/arrow.svg": "/minna-master-n4/static/media/arrow.60c69b3c67b8b0ed834b7f9c661a9250.svg",
-    "static/media/cancel.svg": "/minna-master-n4/static/media/cancel.914ffd75a597792f05060d6ff62c16ac.svg",
-    "static/media/bullet.svg": "/minna-master-n4/static/media/bullet.dcfd95e7b10d78778fa722adce589d72.svg",
-    "main.7567503d.css.map": "/minna-master-n4/static/css/main.7567503d.css.map",
-    "main.25b4ca8c.js.map": "/minna-master-n4/static/js/main.25b4ca8c.js.map",
-    "787.6a5b8d7b.chunk.js.map": "/minna-master-n4/static/js/787.6a5b8d7b.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.7567503d.css",
-    "static/js/main.25b4ca8c.js"
->>>>>>> 862da21ccad04964ec351d53ee6052a7c22aa8f4
   ]
 }
